@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #d1d1d1;
+}
+
+body {
+    background-color: #ececec;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.logo-link {
+    text-decoration: none;
+    color: #333;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.logo-link:hover {
+    text-decoration: none;
+}

@@ -1,0 +1,22 @@
+.container {
+    padding: 20px;
+}
+
+.info-section {
+    margin-top: 50px;
+}
+
+.info-section h1 {
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    color: #266fc4;
+}
+
+.info-content p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    color: #000000;
+}
